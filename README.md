@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laxmanspidey
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning into Machine Learning
 - 💞️ I’m looking to collaborate with FAANG companies.
 - 📫 How to reach me +917418223637
 
