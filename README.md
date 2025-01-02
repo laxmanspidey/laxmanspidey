@@ -1,6 +1,6 @@
 🌟 About Me
       
-      👋 Hi, I’m Laxman !
+      👋 Hi, I’m Laxman (拉克希曼) ! 
       
       🚀 Passionate about Artificial Intelligence, Data Science, and Software Development.
       
