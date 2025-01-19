@@ -13,16 +13,14 @@
       📚 Researching machine learning techniques for advanced natural language processing and computer vision.
 
 🌐 Connect With Me
-      
-      📧 Email: laxmanspidey@gmail.com
-      
-      💼 LinkedIn: https://www.linkedin.com/in/laxman-v-48272928b/
-
 <div align="center">
-  <h1 align="center">Hey There, I'm Laxman!
+  <h1 align="center">Hey There, I'm Laxman (拉克希曼)!
     <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/>
   </h1>
-  <p align="center"><a href="https://www.psgtech.edu/">PSG College Of Technology<a></p>
+  <p align="center">Studying at <a href="https://www.psgtech.edu/">PSG College Of Technology<a></p>
+  <p>  🎓 Currently pursuing M.Sc.Data Science.</p>
+  <p>  🚀 Passionate about Artificial Intelligence, Data Science, and Software Development.</p>
+  <p>
   <br>
 <h2 align="center">I've worked with</h2>
 
@@ -51,9 +49,6 @@
     <img align="center" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanspidey&hide_border=true&layout=compact&theme=algolia" />
   </div>
 </div>
-
-Let’s innovate together! 🌟
-
 
 
 <!---
