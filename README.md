@@ -1,18 +1,3 @@
-🌟 About Me
-      
-      👋 Hi, I’m Laxman (拉克希曼) ! 
-      
-      🚀 Passionate about Artificial Intelligence, Data Science, and Software Development.
-      
-      🎓 Currently pursuing M.Sc.Data Science 
-
-🔭 What I’m Working On
-      
-      📊 Exploring time series analysis for financial forecasting and social network analytics.
-      
-      📚 Researching machine learning techniques for advanced natural language processing and computer vision.
-
-🌐 Connect With Me
 <div align="center">
   <h1 align="center">Hey There, I'm Laxman (拉克希曼)!
     <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/>
@@ -33,7 +18,7 @@
 ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <br>
-<h2 align="center">Connect with me!</h2>
+<h2 align="center">🌐 Connect with me!</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/laxman-v-48272928b/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="sanjitht"  /></a>
 
