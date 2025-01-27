@@ -27,8 +27,6 @@
 <h2 align="center">Stats</h2>
 <div>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 30px;  padding-top: 20px;  padding-bottom: 20px;">
-
-  <img width=395 src="https://github-readme-streak-stats.herokuapp.com?user=en3rypt&hide_border=true&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
   <div  align="center" style="clear: both; text-align: center;">
     <img align="center" width=380 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmanspidey&hide_border=true&layout=compact&theme=algolia" />
