@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hey There, I'm Laxman (拉克希曼)!
+  <h1 align="center">Hey There, I'm Laxman !
     <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="80px"/>
   </h1>
   <p align="center">Studying at <a href="https://www.psgtech.edu/">PSG College Of Technology<a></p>
