@@ -10,6 +10,18 @@ A highly motivated 3rd-year Data Science student passionate about leveraging dat
 
 ---
 
+## 👩‍💻 About Me
+
+- 💡 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Software Development**  
+- 🧠 Experienced in building projects across:  
+  - 📸 **Computer Vision**  
+  - 💬 **Natural Language Processing (NLP)**  
+  - 📊 **Data Analytics**  
+  - 📈 **Predictive Modeling**
+  - 🤖 **Generative AI**
+
+---
+
 ## 🧰 Tech Stack
 
 ### 💻 Languages
