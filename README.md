@@ -94,10 +94,6 @@ A highly motivated 3rd-year Data Science student passionate about leveraging dat
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanspidey&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=laxmanspidey&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 ---
 
 ### 🌐 Connect with me:
