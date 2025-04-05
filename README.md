@@ -88,7 +88,7 @@ A highly motivated 3rd-year Data Science student passionate about leveraging dat
 
 ---
 
-## 🔗 Let's Connect  
+### 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/laxman-v-48272928b/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/laxmanspidey)
